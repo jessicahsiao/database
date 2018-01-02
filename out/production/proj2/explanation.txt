@@ -1,0 +1,1 @@
+Our design required an overhaul and this set us back a lot while working on the project over the weekend. It's been really rough this week with both of us having papers for other classes due. This project has been exceedingly hard in all aspects, from design to debugging to simply figuring out the syntax for our implementation. 
